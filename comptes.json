@@ -1,0 +1,56 @@
+{
+    "1": {
+        "nom": "tedy",
+        "solde": 30000,
+        "historique": [
+            {
+                "type": "Depot",
+                "montant": 10000,
+                "date": "2026-02-18 20:50:25.274416"
+            },
+            {
+                "type": "Virement vers 2",
+                "montant": 30000,
+                "date": "2026-02-18 20:50:25.279704"
+            }
+        ]
+    },
+    "2": {
+        "nom": "CliTel",
+        "solde": 50000,
+        "historique": [
+            {
+                "type": "Virement re\u00e7u de 1",
+                "montant": 30000,
+                "date": "2026-02-18 20:50:25.279729"
+            }
+        ]
+    },
+    "3640650897": {
+        "nom": "tedy",
+        "solde": 30000,
+        "historique": [
+            {
+                "type": "Depot",
+                "montant": 10000,
+                "date": "2026-02-18 20:52:08.266593"
+            },
+            {
+                "type": "Virement vers 9665085667",
+                "montant": 30000,
+                "date": "2026-02-18 20:52:08.286350"
+            }
+        ]
+    },
+    "9665085667": {
+        "nom": "CliTel",
+        "solde": 50000,
+        "historique": [
+            {
+                "type": "Virement re\u00e7u de 3640650897",
+                "montant": 30000,
+                "date": "2026-02-18 20:52:08.286371"
+            }
+        ]
+    }
+}
