@@ -75,7 +75,7 @@ Le projet calcule également **la moyenne, la médiane, l’écart-type et les q
 5. Résultat de notre programme :  
 
 - Les statistiques descriptives s’affichent dans le terminal
-
+```bash
 Moyenne :
  SepalLengthCm    5.843333
  SepalWidthCm     3.054000
@@ -100,12 +100,12 @@ Quartiles :
 0.50            5.8           3.0           4.35           1.3
 0.75            6.4           3.3           5.10           1.8
 
-
+```
 - Le dashboard multi-graphiques est sauvegardé dans :
 
 `dashboard_iris.png`
 
-- Tu peux ouvrir cette image pour visualiser :
+## Tu peux ouvrir cette image pour visualiser :
 
 - `L’histogramme des longueurs de sépales`
 
