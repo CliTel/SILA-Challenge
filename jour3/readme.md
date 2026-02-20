@@ -131,11 +131,11 @@ Erreur : Expression invalide
 
  - Séparation claire entre :
 
-    **Interface**
+    - Interface
 
-    **Logique métier**
+    - Logique métier
 
-    **Gestion du thème**
+    - Gestion du thème
 
  - Sécurisation de l’évaluation des expressions
 
@@ -147,14 +147,14 @@ Erreur : Expression invalide
 
 - Ce projet permet de mettre en pratique :
 
-    **La création d’interfaces graphiques avec tkinter**
+    - La création d’interfaces graphiques avec tkinter
 
-    **La structuration modulaire d’un projet Python**
+    - La structuration modulaire d’un projet Python
 
-    **La gestion des exceptions**
+    - La gestion des exceptions
 
-    **L’intégration de fonctions mathématiques avancées**
+    - L’intégration de fonctions mathématiques avancées
 
-    **Les bonnes pratiques de développement**
+    - Les bonnes pratiques de développement
 
 ---    
