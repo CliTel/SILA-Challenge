@@ -14,15 +14,15 @@ L’application permet d’effectuer des opérations mathématiques simples et a
 
 La calculatrice comprend :
 
-- Les opérations de base (+, −, ×, ÷)  
-- Les fonctions trigonométriques : sin, cos, tan  
-- Les fonctions logarithmiques : log  
-- La racine carrée (sqrt)  
-- Les constantes mathématiques : π et e  
-- La gestion des parenthèses imbriquées  
-- Un historique des calculs scrollable  
-- Un système de thème clair/sombre  
-- La gestion des erreurs (division par zéro, expressions invalides)  
+- Les opérations de base `(+, −, ×, ÷)`  
+- Les fonctions trigonométriques : `sin, cos, tan`  
+- Les fonctions logarithmiques : `log`  
+- La racine carrée `(sqrt)`  
+- Les constantes mathématiques : `π` et `e` 
+- La gestion des `parenthèses imbriquées`  
+- Un historique des `calculs scrollable`  
+- Un système de thème `clair/sombre`  
+- La gestion des erreurs `(division par zéro, expressions invalides)`  
 
 ---
 
@@ -99,13 +99,13 @@ pyhon3 main.py
 ## Résultat de notre programme
 - Une fenêtre graphique s’ouvre avec :
 
-    **Un champ d’affichage pour les calculs**
+    - Un champ d’affichage pour les calculs
 
-    **Des boutons scientifiques organisés en grille**
+    - Des boutons scientifiques organisés en grille
 
-    **Un historique scrollable des opérations**
+    - Un historique scrollable des opérations
 
-    **Un bouton de changement de thème**
+    - Un bouton de changement de thème
 
 - Exemple d’utilisation :
 
@@ -116,13 +116,13 @@ pyhon3 main.py
 
 (5 + 3) * sin(0.5) = 3.835404...
 
-- En cas d'erreur : 
+- En cas d\'erreur : 
 
-Erreur : Division par zéro :
+`Erreur` : Division par zéro :
 
 - Ou
 
-Erreur : Expression invalide
+`Erreur` : Expression invalide
 ```
 
 ## Points techniques importants
@@ -131,11 +131,11 @@ Erreur : Expression invalide
 
  - Séparation claire entre :
 
-    - Interface
+    - `Interface`
 
-    - Logique métier
+    - `Logique métier`
 
-    - Gestion du thème
+    - `Gestion du thème`
 
  - Sécurisation de l’évaluation des expressions
 
