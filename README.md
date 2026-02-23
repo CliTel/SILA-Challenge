@@ -434,12 +434,12 @@ python run.py
 ```
 Vos cartes :
 ┌───┐ ┌───┐
-| A♠ | | 10♥|
+| A♠| |10♥|
 └───┘ └───┘
 
 Cartes communes :
 ┌───┐ ┌───┐ ┌───┐
-| K♣ | | 7♦ | | 2♠ |
+| K♣| | 7♦| | 2♠|
 └───┘ └───┘ └───┘
 
 Probabilité de gain estimée : 45%
